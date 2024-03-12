@@ -9,4 +9,5 @@
 ![image](https://github.com/Pablofcf/Reto-4/assets/159049788/0e6665a1-ccf0-4963-adb7-d472db103cf2)
 ![image](https://github.com/Pablofcf/Reto-4/assets/159049788/25e60bfe-b609-4549-96e0-7db45230a1fa)
 
-
+6.
+![image](https://github.com/Pablofcf/Reto-4/assets/159049788/4c65d524-3bb8-4f3c-a66a-4f27f1e3b593)
