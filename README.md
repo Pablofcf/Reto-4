@@ -2,6 +2,9 @@
 1.
 ![image](https://github.com/Pablofcf/Reto-4/assets/159049788/0d1364ac-addb-413c-9f9d-6d39c4d8fcc2)
 
+2.
+![image](https://github.com/Pablofcf/Reto-4/assets/159049788/967f9442-91ce-4fc8-8e78-6e479f003559)
+
 4.
 ![image](https://github.com/Pablofcf/Reto-4/assets/159049788/93cbf10a-aca8-427d-b587-8d4d8463e7d3)
 
