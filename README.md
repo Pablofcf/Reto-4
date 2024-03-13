@@ -1,4 +1,12 @@
 # Reto4
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [],
+   "source": [
 #Dado un número entero, determinar si ese número corresponde al código ASCII de una vocal minúscula.
 ```python(a = int(input("Digite un numero entero"))
 if a > 97 and a < 122:
