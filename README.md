@@ -1,11 +1,20 @@
 # Reto4
 1.
+
+#Dado un número entero, determinar si ese número corresponde al código ASCII de una vocal minúscula.
+
+a = int(input("Digite un numero entero"))
+if a > 97 and a < 122:
+    print("El numero entero corresponde a una vocal minuscula en el codigo ASCII, es:"+(chr(a)))
+else:
+    print("No corresponde a una vocal minuscula en el codigo ASCII")
+    
 ![image](https://github.com/Pablofcf/Reto-4/assets/159049788/0d1364ac-addb-413c-9f9d-6d39c4d8fcc2)
 
-2.
+1.
 ![image](https://github.com/Pablofcf/Reto-4/assets/159049788/967f9442-91ce-4fc8-8e78-6e479f003559)
 
-3.
+2.
 
 ![Captura de pantalla 2024-03-12 221047](https://github.com/Pablofcf/Reto-4/assets/159049788/0bbf31e8-3da5-4688-aa23-943c2b86307e)
 
