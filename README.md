@@ -17,9 +17,9 @@ else:
     print("Es impar"))
 ```
 
-#Dado un carácter, construya un programa en Python para determinar si el carácter es un dígito o no.
-
-s = (str(input("Digite un caracter")))
+3. Dado un carácter, construya un programa en Python para determinar si el carácter es un dígito o no.
+```python
+(s = (str(input("Digite un caracter")))
 if s == "0":
     print("Es un digito")
 elif s == "1":
@@ -41,30 +41,33 @@ elif s == "8":
 elif s == "9":
     print("Es un digito")
 else: 
-    print("No es un digito")
+    print("No es un digito"))
+```
 
-#Dado un carácter, construya un programa en Python para determinar si el carácter es un dígito o no.
-
-a = (int(input("Digite un caracter entre el rango de 40 a 60")))
+3.1. Dado un carácter, construya un programa en Python para determinar si el carácter es un dígito o no.
+```python
+(a = (int(input("Digite un caracter entre el rango de 40 a 60")))
 if a >= 48 and a <= 57:
     print("El caracter es un digito y corresponde al numero: "+(chr(a)))
 else:
-    print("El caracter no es un digito")
+    print("El caracter no es un digito"))
+```
 
-#Dado un número real x, construya un programa que permita determinar si el número es positivo, negativo o cero. Para cada caso de debe imprimir el texto que se especifica a continuación:
-
-x : float 
+4. Dado un número real x, construya un programa que permita determinar si el número es positivo, negativo o cero. Para cada caso de debe imprimir el texto que se especifica a continuación:
+```python
+(x : float 
 x = float(input("Digite un numero"))
 if x >= 1:
     print("El numero "+str(x)+" es positivo")
 elif x <= -1:
     print("El numero "+str(x)+" es negativo")
 else: 
-    print("El numero x es el neutro para la suma")
+    print("El numero x es el neutro para la suma"))
+```
 
-#Dado el centro y el radio de un círculo, determinar si un punto de R2 pertenece o no al interior del círculo.
-
-radio = float(input("Digite un numero para el radio:"))
+5. Dado el centro y el radio de un círculo, determinar si un punto de R2 pertenece o no al interior del círculo.
+```python
+(radio = float(input("Digite un numero para el radio:"))
 y1 = float(input("Digite un numero x1:"))
 x1 = float(input("Digite un numero y2:"))
 
@@ -78,11 +81,12 @@ else:
      print ("Esta sobre la circunferencia")
 
    else:
-     print("Esta fuera de la circunferencia")
+     print("Esta fuera de la circunferencia"))
+```
 
-#Dadas tres longitudes positivas, determinar si con esas longitudes se puede construir un triángulo.
-
-a = int(input("Digite un numero"))
+6. Dadas tres longitudes positivas, determinar si con esas longitudes se puede construir un triángulo.
+```python
+(a = int(input("Digite un numero"))
 b = int(input("Digite un numero"))
 c = int(input("Digite un numero"))
 
@@ -93,4 +97,5 @@ if a + b > c and b + c > a and c + a > b:
 else:
    print ("El dato seleccionado " +str(a)+ " es invalido para formar un triangulo")
    print ("El dato seleccionado " +str(b)+ " es invalido para formar un triangulo")
-   print ("El dato seleccionado " +str(c)+ " es invalido para formar un triangulo")
+   print ("El dato seleccionado " +str(c)+ " es invalido para formar un triangulo"))
+```
